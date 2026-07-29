@@ -1,5 +1,5 @@
 <script>
-  import Canvas from './lib/Canvas.svelte';
+  import Chart from './lib/Chart.svelte';
 </script>
 
-<Canvas />
+<Chart />

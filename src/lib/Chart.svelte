@@ -1,5 +1,5 @@
 <script lang="ts">
-  import startAnimation from "./canvasLogic";
+  import startAnimation from "./chartLogic";
 </script>
 
 <canvas use:startAnimation></canvas>
