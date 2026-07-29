@@ -1,7 +1,7 @@
 
 const fps = 30;
 
-const padding = 100;
+const padding = 50;
 
 const startAnimation = (canvas: HTMLCanvasElement) => {
   const ctx = canvas.getContext('2d')!;
